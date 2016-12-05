@@ -11,6 +11,11 @@ Also gives you how to use **[Adobe Creative SDK](https://creativesdk.adobe.com/)
 Using bottom sheet to list sharing options and share it with other applications.
 
 
+## Future Release
+
+The possible plugin that would be added are Gif generator and Image compression.
+
+
 ## License
 ```
 The MIT License (MIT)
